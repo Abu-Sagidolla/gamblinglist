@@ -1808,4 +1808,5 @@
 127.0.0.1 optibet.lv
 127.0.0.1 brazino777.com
 127.0.0.1 grandcasino.online
+127.0.0.1 novatorpharma.kz
 
