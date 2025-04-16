@@ -1810,3 +1810,4 @@
 127.0.0.1 grandcasino.online
 127.0.0.1 novatorpharma.kz
 127.0.0.1 naomi.ns.cloudflare.com
+127.0.0.1 renan.ns.cloudflare.com
